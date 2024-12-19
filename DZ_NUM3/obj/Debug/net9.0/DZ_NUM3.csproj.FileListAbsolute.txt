@@ -1,0 +1,14 @@
+C:\Users\Артём\Desktop\DZ_NUM3\bin\Debug\net9.0\DZ_NUM3.exe
+C:\Users\Артём\Desktop\DZ_NUM3\bin\Debug\net9.0\DZ_NUM3.deps.json
+C:\Users\Артём\Desktop\DZ_NUM3\bin\Debug\net9.0\DZ_NUM3.runtimeconfig.json
+C:\Users\Артём\Desktop\DZ_NUM3\bin\Debug\net9.0\DZ_NUM3.dll
+C:\Users\Артём\Desktop\DZ_NUM3\bin\Debug\net9.0\DZ_NUM3.pdb
+C:\Users\Артём\Desktop\DZ_NUM3\obj\Debug\net9.0\DZ_NUM3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артём\Desktop\DZ_NUM3\obj\Debug\net9.0\DZ_NUM3.AssemblyInfoInputs.cache
+C:\Users\Артём\Desktop\DZ_NUM3\obj\Debug\net9.0\DZ_NUM3.AssemblyInfo.cs
+C:\Users\Артём\Desktop\DZ_NUM3\obj\Debug\net9.0\DZ_NUM3.csproj.CoreCompileInputs.cache
+C:\Users\Артём\Desktop\DZ_NUM3\obj\Debug\net9.0\DZ_NUM3.dll
+C:\Users\Артём\Desktop\DZ_NUM3\obj\Debug\net9.0\refint\DZ_NUM3.dll
+C:\Users\Артём\Desktop\DZ_NUM3\obj\Debug\net9.0\DZ_NUM3.pdb
+C:\Users\Артём\Desktop\DZ_NUM3\obj\Debug\net9.0\DZ_NUM3.genruntimeconfig.cache
+C:\Users\Артём\Desktop\DZ_NUM3\obj\Debug\net9.0\ref\DZ_NUM3.dll
